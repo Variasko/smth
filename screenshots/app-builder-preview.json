@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Наглядные листы",
+      "hasCanvas": false,
+      "bodyTextLen": 2035,
+      "bodyTextHash": "efd58fc8a05d018dc64b0f9ead8890a3b857bc77b45c2a547e56e9631f2d5e59",
+      "bodyTextPrefix": "КЛАСС БОЕВОЙ ПОДГОТОВКИ НАГЛЯДНЫЕ ЛИСТЫ НАЗАД 01 / 16 ДАЛЕЕ СТЕН",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Наглядные листы",
+      "hasCanvas": false,
+      "bodyTextLen": 1470,
+      "bodyTextHash": "e502fe2ce779ba36993c1af4e8993045f7e3939618863796bb91b1baf82db9b0",
+      "bodyTextPrefix": "НАГЛЯДНЫЕ ЛИСТЫ 01 / 16 СБОРНИК МАТЕРИАЛОВ ДЛЯ ЗАНЯТИЙ Учебный п",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
